@@ -15,7 +15,7 @@ ________________________________________
 •	✅ Stock Inventory & Rangoli Inventory Management
 •	✅ Interactive Filters & Drill-down Capability
 ________________________________________
-## 🧩 Dashboard Pages Overview
+#### 🧩 Dashboard Pages Overview
 ________________________________________
 # 1️⃣ SUMMARY ANALYSIS DASHBOARD
 # 📌 Purpose:
