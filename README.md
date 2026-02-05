@@ -148,12 +148,12 @@ ________________________________________
 •	Mobile Optimized Dashboard<br>
 •	ERP System Integration<br>
 ________________________________________
-###### 👨‍💻 Developed By
+#### 👨‍💻 Developed By
 Vikas Kumar Jha
 ##### 📊 Power BI Developer | Manufacturing Analytics
 ________________________________________
 
-##### Feedback & Collaboration
+#### Feedback & Collaboration
 Your feedback is welcome ! If you'd like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
 ###### ⭐ # powerbi , # manufacturing-dashboard , # production-analytics , # inventory-management,# wastage-analysis, # machine-tracking, # labour-tracking, # data-visualization, # holi-color-industry
 
