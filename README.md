@@ -6,7 +6,7 @@ This project is a comprehensive Power BI Dashboard designed for Holi Color Manuf
 It provides end-to-end visibility of production performance, labour utilization, wastage control, machine tracking, and inventory management.
 The dashboard converts raw production data into actionable insights to improve efficiency, reduce wastage, and optimize stock levels.
 ________________________________________
-### 🔥 Key Highlights
+# 🔥 Key Highlights
 •	✅ Powder & Liquid Production Tracking
 •	✅ Labour Utilization Monitoring (Date-wise & Product-wise)
 •	✅ Advanced Wastage Analysis with Allowed vs Actual Logic
