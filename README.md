@@ -32,121 +32,121 @@ ________________________________________
 #### 📌 Purpose:
 Detailed analysis of production output across all units and packaging types.
 Coverage:
-•	Powder Production (Bag, Pouch, Dibbi, Inner Bag, Sticker, CTN)
-•	Liquid Production (Bottle, Tube, LTR)
-•	Semi-Finished & Finished Goods
-•	Average Production KPIs
-•	Labour Utilization per Product
+•	Powder Production (Bag, Pouch, Dibbi, Inner Bag, Sticker, CTN)<br>
+•	Liquid Production (Bottle, Tube, LTR)<br>
+•	Semi-Finished & Finished Goods<br>
+•	Average Production KPIs<br>
+•	Labour Utilization per Product<br>
 ________________________________________
 #### 3️⃣ WASTAGE ANALYSIS DASHBOARD
 #### 📌 Purpose:
-Tracks wastage at roll, product, machine, and operator level.
-Features:
-•	Roll Weight vs Actual Wastage
-•	Product-wise Wastage (KG)
-•	Machine-wise Wastage
-•	Operator-wise Wastage
-•	Saved Wastage Calculation
-•	Average Allowed Wastage Comparison
+Tracks wastage at roll, product, machine, and operator level.<br>
+Features:<br>
+•	Roll Weight vs Actual Wastage<br>
+•	Product-wise Wastage (KG)<br>
+•	Machine-wise Wastage<br>
+•	Operator-wise Wastage<br>
+•	Saved Wastage Calculation<br>
+•	Average Allowed Wastage Comparison<br>
 ________________________________________
 #### 4️⃣ COMPARISON WASTAGE DASHBOARD
 #### 📌 Purpose:
-Compares Allowed Wastage vs Actual Wastage for control & savings analysis.
+Compares Allowed Wastage vs Actual Wastage for control & savings analysis.<br>
 #### Key Analysis:
-•	Daily Wastage Comparison
-•	Allowed vs Actual Wastage (2% Rule Applied)
-•	Wastage Saving Trend
-•	Product-wise & Date-wise Comparison
+•	Daily Wastage Comparison<br>
+•	Allowed vs Actual Wastage (2% Rule Applied)<br>
+•	Wastage Saving Trend<br>
+•	Product-wise & Date-wise Comparison<br>
 ________________________________________
 #### 5️⃣ MACHINE TRACKER SYSTEM
 #### 📌 Purpose:
 Monitors machine-level efficiency and wastage.
 #### Insights Provided:
-•	Roll Loaded per Machine
-•	Production Output per Machine
-•	Wastage per Machine
-•	Machine Performance Trend
+•	Roll Loaded per Machine<br>
+•	Production Output per Machine<br>
+•	Wastage per Machine<br>
+•	Machine Performance Trend<br>
 ________________________________________
 #### 6️⃣ PRODUCTION TABLE (YESTERDAY PRODUCTION)
 #### 📌 Purpose:
 Operational tracking of previous day production.
 ##### Details Included:
-•	Product Name
-•	Production Quantity (KG / LTR)
-•	Labour Used
-•	Packaging Unit & Quantity
+•	Product Name<br>
+•	Production Quantity (KG / LTR)<br>
+•	Labour Used<br>
+•	Packaging Unit & Quantity<br>
 ________________________________________
 #### 7️⃣ PIE CHART – PRODUCTION IN KG
 ##### 📌 Purpose:
-Visual distribution of Finished Powder Goods Production.
-•	Top 10 Products by KG
-•	Percentage Contribution
+Visual distribution of Finished Powder Goods Production.<br>
+•	Top 10 Products by KG<br>
+•	Percentage Contribution<br>
 ________________________________________
 #### 8️⃣ PIE CHART – PRODUCTION IN LTR
 #### 📌 Purpose:
-Visual analysis of Liquid Finished Goods Production.
-•	Oil / Liquid Products Distribution
-•	LTR-wise Share
+Visual analysis of Liquid Finished Goods Production.<br>
+•	Oil / Liquid Products Distribution<br>
+•	LTR-wise Share<br>
 ________________________________________
 #### 9️⃣ STOCK INVENTORY ANALYTICS DASHBOARD
 #### 📌 Purpose:
 Complete stock movement & alert system.
 ###### Tracks:
-•	Opening Stock
-•	Inward Stock
-•	Outward Stock
-•	Closing & Available Stock
-•	Low Stock Alerts
-•	High Stock Alerts
-•	Full Stock Register
+•	Opening Stock<br>
+•	Inward Stock<br>
+•	Outward Stock<br>
+•	Closing & Available Stock<br>
+•	Low Stock Alerts<br>
+•	High Stock Alerts<br>
+•	Full Stock Register<br>
 ________________________________________
 #### 🔟 RANGOLI INVENTORY ANALYTICS DASHBOARD
 #### 📌 Purpose:
 Dedicated inventory management for Rangoli Products.
 ###### Includes:
-•	Rangoli Type-wise Stock
-•	Opening / Inward / Outward / Available Stock
-•	Critical Stock Alerts
-•	Full Rangoli Stock Register
+•	Rangoli Type-wise Stock<br>
+•	Opening / Inward / Outward / Available Stock<br>
+•	Critical Stock Alerts<br>
+•	Full Rangoli Stock Register<br>
 ________________________________________
 #### 🛠️ Tools & Technologies Used
-•	Microsoft Power BI Desktop
-•	DAX Measures
-•	Data Modeling
-•	Interactive Visualizations
-•	Custom KPIs & Business Logic
+•	Microsoft Power BI Desktop<br>
+•	DAX Measures<br>
+•	Data Modeling<br>
+•	Interactive Visualizations<br>
+•	Custom KPIs & Business Logic<br>
 ________________________________________
 ## 🏭 Business Use Case
 #### This dashboard is suitable for:
-•	Holi Color Manufacturing Units
-•	Chemical & Powder Manufacturing Industries
-•	Packaging Plants
-•	Production Managers
-•	Inventory Control Teams
-•	Operations & Planning Departments
+•	Holi Color Manufacturing Units<br>
+•	Chemical & Powder Manufacturing Industries<br>
+•	Packaging Plants<br>
+•	Production Managers<br>
+•	Inventory Control Teams<br>
+•	Operations & Planning Departments<br>
 ________________________________________
 ##### 📂 Repository Structure (Suggested)
-##### 📁 Holi-Color-Production-Analytics-PowerBI
-##### ┣ 📁 images
-##### ┃ ┣ summary_dashboard.png
-##### ┃ ┣ production_performance.png
-##### ┃ ┣ wastage_analysis.png
-##### ┃ ┣ comparison_wastage.png
-##### ┃ ┣ machine_tracker.png
-##### ┃ ┣ production_table.png
-##### ┃ ┣ production_kg.png
-##### ┃ ┣ production_ltr.png
-##### ┃ ┣ stock_inventory.png
-##### ┃ ┗ rangoli_inventory.png
-##### ┣ 📄 Holi_Color_Production_Dashboard.pbix
-##### ┣ 📄 README.md
+📁 Holi-Color-Production-Analytics-PowerBI<br>
+┣ 📁 images<br>
+┃ ┣ summary_dashboard.png<br>
+┃ ┣ production_performance.png<br>
+┃ ┣ wastage_analysis.png<br>
+┃ ┣ comparison_wastage.png<br>
+┃ ┣ machine_tracker.png<br>
+┃ ┣ production_table.png<br>
+┃ ┣ production_kg.png<br>
+┃ ┣ production_ltr.png
+┃ ┣ stock_inventory.png
+┃ ┗ rangoli_inventory.png
+┣ 📄 Holi_Color_Production_Dashboard.pbix
+┣ 📄 README.md
 ________________________________________
 ##### 🚀 Future Enhancements
-•	Live Database Integration
-•	Automated Alerts & Notifications
-•	Power BI Service Deployment
-•	Mobile Optimized Dashboard
-•	ERP System Integration
+•	Live Database Integration<br>
+•	Automated Alerts & Notifications<br>
+•	Power BI Service Deployment<br>
+•	Mobile Optimized Dashboard<br>
+•	ERP System Integration<br>
 ________________________________________
 ###### 👨‍💻 Developed By
 Vikas Kumar Jha
