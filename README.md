@@ -128,18 +128,18 @@ ________________________________________
 ##### 📂 Repository Structure (Suggested)
 ##### 📁 Holi-Color-Production-Analytics-PowerBI
 ##### ┣ 📁 images
- ┃ ┣ summary_dashboard.png
- ┃ ┣ production_performance.png
- ┃ ┣ wastage_analysis.png
- ┃ ┣ comparison_wastage.png
- ┃ ┣ machine_tracker.png
- ┃ ┣ production_table.png
- ┃ ┣ production_kg.png
- ┃ ┣ production_ltr.png
- ┃ ┣ stock_inventory.png
- ┃ ┗ rangoli_inventory.png
- ┣ 📄 Holi_Color_Production_Dashboard.pbix
- ┣ 📄 README.md
+##### ┃ ┣ summary_dashboard.png
+##### ┃ ┣ production_performance.png
+##### ┃ ┣ wastage_analysis.png
+##### ┃ ┣ comparison_wastage.png
+##### ┃ ┣ machine_tracker.png
+##### ┃ ┣ production_table.png
+##### ┃ ┣ production_kg.png
+##### ┃ ┣ production_ltr.png
+##### ┃ ┣ stock_inventory.png
+##### ┃ ┗ rangoli_inventory.png
+##### ┣ 📄 Holi_Color_Production_Dashboard.pbix
+##### ┣ 📄 README.md
 ________________________________________
 ##### 🚀 Future Enhancements
 •	Live Database Integration
@@ -153,7 +153,7 @@ Vikas Kumar Jha
 ##### 📊 Power BI Developer | Manufacturing Analytics
 ________________________________________
 
-###### Feedback & Collaboration
+##### Feedback & Collaboration
 Your feedback is welcome ! If you'd like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
 ###### ⭐powerbi , manufacturing-dashboard , production-analytics , inventory-management,wastage-analysis, machine-tracking, labour-tracking, data-visualization, holi-color-industry
 
