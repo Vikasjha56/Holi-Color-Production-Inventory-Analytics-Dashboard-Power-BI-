@@ -1,12 +1,12 @@
 # 🎨 Holi-Color-Production-Inventory-Analytics-Dashboard-Power-BI-
 This project is a Power BI based Production and Inventory Analytics Dashboard developed for Holi color manufacturing monitoring. It tracks production output, packaging material usage, wastage and recovery analysis, and stock inventory status. The dashboard delivers interactive visual insights to improve efficiency and optimize resource utilization.
 
-📊 Industry-Grade Manufacturing Analytics Project
+# 📊 Industry-Grade Manufacturing Analytics Project
 This project is a comprehensive Power BI Dashboard designed for Holi Color Manufacturing & Packaging Industry.
 It provides end-to-end visibility of production performance, labour utilization, wastage control, machine tracking, and inventory management.
 The dashboard converts raw production data into actionable insights to improve efficiency, reduce wastage, and optimize stock levels.
 ________________________________________
-# 🔥 Key Highlights
+### 🔥 Key Highlights
 •	✅ Powder & Liquid Production Tracking
 •	✅ Labour Utilization Monitoring (Date-wise & Product-wise)
 •	✅ Advanced Wastage Analysis with Allowed vs Actual Logic
@@ -15,7 +15,7 @@ ________________________________________
 •	✅ Stock Inventory & Rangoli Inventory Management
 •	✅ Interactive Filters & Drill-down Capability
 ________________________________________
-# 🧩 Dashboard Pages Overview
+### 🧩 Dashboard Pages Overview
 ________________________________________
 # 1️⃣ SUMMARY ANALYSIS DASHBOARD
 # 📌 Purpose:
