@@ -135,11 +135,11 @@ ________________________________________
 ┃ ┣ machine_tracker.png<br>
 ┃ ┣ production_table.png<br>
 ┃ ┣ production_kg.png<br>
-┃ ┣ production_ltr.png
-┃ ┣ stock_inventory.png
-┃ ┗ rangoli_inventory.png
-┣ 📄 Holi_Color_Production_Dashboard.pbix
-┣ 📄 README.md
+┃ ┣ production_ltr.png<br>
+┃ ┣ stock_inventory.png<br>
+┃ ┗ rangoli_inventory.png<br>
+┣ 📄 Holi_Color_Production_Dashboard.pbix<br>
+┣ 📄 README.md<br>
 ________________________________________
 ##### 🚀 Future Enhancements
 •	Live Database Integration<br>
@@ -155,7 +155,7 @@ ________________________________________
 
 ##### Feedback & Collaboration
 Your feedback is welcome ! If you'd like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
-###### ⭐powerbi , manufacturing-dashboard , production-analytics , inventory-management,wastage-analysis, machine-tracking, labour-tracking, data-visualization, holi-color-industry
+###### ⭐ powerbi , manufacturing-dashboard , production-analytics , inventory-management,wastage-analysis, machine-tracking, labour-tracking, data-visualization, holi-color-industry
 
 
 
