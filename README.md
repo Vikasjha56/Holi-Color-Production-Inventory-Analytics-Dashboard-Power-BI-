@@ -155,7 +155,7 @@ ________________________________________
 
 ##### Feedback & Collaboration
 Your feedback is welcome ! If you'd like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
-###### ⭐ powerbi , manufacturing-dashboard , production-analytics , inventory-management,wastage-analysis, machine-tracking, labour-tracking, data-visualization, holi-color-industry
+###### ⭐ # powerbi , # manufacturing-dashboard , # production-analytics , # inventory-management,# wastage-analysis, # machine-tracking, # labour-tracking, # data-visualization, # holi-color-industry
 
 
 
