@@ -30,8 +30,8 @@ Provides a complete high-level overview of production & wastage performance.
 ________________________________________
 #### 2️⃣ PRODUCTION PERFORMANCE DASHBOARD
 #### 📌 Purpose:
-Detailed analysis of production output across all units and packaging types.
-Coverage:
+Detailed analysis of production output across all units and packaging types.<br>
+Coverage:<br>
 •	Powder Production (Bag, Pouch, Dibbi, Inner Bag, Sticker, CTN)<br>
 •	Liquid Production (Bottle, Tube, LTR)<br>
 •	Semi-Finished & Finished Goods<br>
