@@ -21,12 +21,12 @@ ________________________________________
 #### 📌 Purpose:
 Provides a complete high-level overview of production & wastage performance.
 #### Key Metrics:
-•	Total Finished Production (KG & LTR)
-•	Total Labour Used
-•	Total Roll Weight
-•	Overall Production by Packaging Type
-•	Top Production Products
-•	Top Wastage Product, Machine & Operator
+•	Total Finished Production (KG & LTR)<br>
+•	Total Labour Used<br>
+•	Total Roll Weight<br>
+•	Overall Production by Packaging Type<br>
+•	Top Production Products<br>
+•	Top Wastage Product, Machine & Operator<br>
 ________________________________________
 #### 2️⃣ PRODUCTION PERFORMANCE DASHBOARD
 #### 📌 Purpose:
