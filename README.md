@@ -7,13 +7,13 @@ It provides end-to-end visibility of production performance, labour utilization,
 The dashboard converts raw production data into actionable insights to improve efficiency, reduce wastage, and optimize stock levels.
 ________________________________________
 #### 🔥 Key Highlights
-•	✅ Powder & Liquid Production Tracking
-•	✅ Labour Utilization Monitoring (Date-wise & Product-wise)
-•	✅ Advanced Wastage Analysis with Allowed vs Actual Logic
-•	✅ Machine Performance & Roll Tracking System
-•	✅ Finished Goods & Semi-Finished Goods Analysis
-•	✅ Stock Inventory & Rangoli Inventory Management
-•	✅ Interactive Filters & Drill-down Capability
+•	✅ Powder & Liquid Production Tracking <br>
+•	✅ Labour Utilization Monitoring (Date-wise & Product-wise) <br>
+•	✅ Advanced Wastage Analysis with Allowed vs Actual Logic <br>
+•	✅ Machine Performance & Roll Tracking System <br>
+•	✅ Finished Goods & Semi-Finished Goods Analysis <br>
+•	✅ Stock Inventory & Rangoli Inventory Management <br>
+•	✅ Interactive Filters & Drill-down Capability <br>
 ________________________________________
 #### 🧩 Dashboard Pages Overview
 ________________________________________
