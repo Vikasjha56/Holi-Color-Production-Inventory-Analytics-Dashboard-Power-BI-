@@ -7,7 +7,7 @@ It provides end-to-end visibility of production performance, labour utilization,
 The dashboard converts raw production data into actionable insights to improve efficiency, reduce wastage, and optimize stock levels.
 ________________________________________
 #### 🔥 Key Highlights
-•	✅ Powder & Liquid Production Tracking<br>
+•	✅ Holi Gulal Color Production Tracking<br>
 •	✅ Labour Utilization Monitoring (Date-wise & Product-wise)<br>
 •	✅ Advanced Wastage Analysis with Allowed vs Actual Logic <br>
 •	✅ Machine Performance & Roll Tracking System <br>
